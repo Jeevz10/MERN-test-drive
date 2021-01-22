@@ -1,3 +1,5 @@
+// had issues when running nodemon: https://dev.to/thetradecoder/how-to-fix-error-nodemon-ps1-cannot-be-loaded-because-running-scripts-is-disabled-on-this-system-34fe
+
 const express = require('express');
 const app = express();
 
