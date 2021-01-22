@@ -63,7 +63,7 @@ export default class CreateTodo extends Component {
                                 onChange={this.onChangeTodoDescription}
                                 />
                     </div>
-                    {/* <div className="form-group">
+                    <div className="form-group">
                         <label>Responsible: </label>
                         <input 
                                 type="text" 
@@ -106,7 +106,7 @@ export default class CreateTodo extends Component {
                                     />
                             <label className="form-check-label">High</label>
                         </div>
-                    </div> */}
+                    </div>
 
                     <div className="form-group">
                         <input type="submit" value="Create Todo" className="btn btn-primary" />
